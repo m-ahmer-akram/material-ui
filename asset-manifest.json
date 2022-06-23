@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/material-ui/static/js/main.e4a4d669.js",
+    "index.html": "/material-ui/index.html",
+    "main.e4a4d669.js.map": "/material-ui/static/js/main.e4a4d669.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e4a4d669.js"
+  ]
+}
